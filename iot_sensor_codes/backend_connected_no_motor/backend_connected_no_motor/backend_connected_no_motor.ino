@@ -8,12 +8,12 @@
 #include <DallasTemperature.h>
 
 // ---------------- WIFI ----------------
-#define WIFI_SSID "Big W"
-#define WIFI_PASSWORD "niqa1234"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // ---------------- FIREBASE ----------------
-#define API_KEY "AIzaSyDlaty48o_XKGcGj5nNlvizStmFfzl4_cU"         // 👈 Fill this in from Firebase Console
-#define DATABASE_URL "https://agrimon-iot-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY ""         // 👈 Fill this in from Firebase Console
+#define DATABASE_URL ""
 
 // ---------------- DHT11 ----------------
 #define DHTPIN 4
